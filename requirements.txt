@@ -1,0 +1,4 @@
+# As versões avaliadas (sequencial, paralela e distribuída) usam APENAS a
+# biblioteca padrão do Python. As dependências abaixo são só para análise e
+# visualização (benchmarks/graficos.py e visualizacao/visualizar.py).
+matplotlib

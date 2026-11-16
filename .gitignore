@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Editores / SO
+.idea/
+.vscode/
+.DS_Store
+
+# Mantém a pasta de resultados versionada
+!benchmarks/resultados/.gitkeep
